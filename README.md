@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Thiago, a Software Development student at the Sao Paulo College of Technology (Fatec). 🇧🇷
+### I'm Thiago, a Software Development student at the Sao Paulo College of Technology (Fatec). 🇧🇷
 
 Currently, I'm diving deep into computer science fundamentals through **Harvard's CS50x**.
 
